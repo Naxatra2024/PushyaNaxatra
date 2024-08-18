@@ -4,23 +4,23 @@
     "dates": [
         {
             "month": "Jan",
-            "start-date-gmt": 1706150796,
-            "end-date-gmt": 1706244996
+            "start_date_gmt": 1706150796,
+            "end_date_gmt": 1706244996
         },
         {
             "month": "Feb",
-            "start-date-gmt": 1706150796,
-            "end-date-gmt": 1706244996
+            "start_date_gmt": 1706150796,
+            "end_date_gmt": 1706244996
         },
         {
             "month": "Mar",
-            "start-date-gmt": 1706150796,
-            "end-date-gmt": 1706244996
+            "start_date_gmt": 1706150796,
+            "end_date_gmt": 1706244996
         },
         {
             "month": "April",
-            "start-date-gmt": 1706150796,
-            "end-date-gmt": 1706244996
+            "start_date_gmt": 1706150796,
+            "end_date_gmt": 1706244996
         }
     ]
 }
