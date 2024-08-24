@@ -1,27 +1,144 @@
 {
-    "version":"1.0.0",
-    "name": "pushya",
+    "version": "1.0.0",
+    "nakshatra_name": "Pushya Nakshatra",
     "year": 2024,
-    "dates": [
+    "details": [
         {
-            "month": "Jan",
-            "start_date_gmt": 1706150796,
-            "end_date_gmt": 1706244996
+            "month": 1,
+            "note": "Aspicious date for swarnprashan",
+            "dates": [
+                {
+                    "muhurt": "Amrut kaal from 1:30 AM to 8:30 PM",
+                    "start_time_gmt": 1706150796,
+                    "end_time_gmt": 1706244996
+                }
+            ]
         },
         {
-            "month": "Feb",
-            "start_date_gmt": 1706150796,
-            "end_date_gmt": 1706244996
+            "month": 2,
+            "note": "Aspicious date for swarnprashan",
+            "dates": [
+                {
+                    "muhurt": "Amrut kaal from 1:30 AM to 8:30 PM",
+                    "start_time_gmt": 1708504716,
+                    "end_time_gmt": 1708600416
+                }
+            ]
         },
         {
-            "month": "Mar",
-            "start_date_gmt": 1706150796,
-            "end_date_gmt": 1706244996
+            "month": 3,
+            "note": "Aspicious date for swarnprashan",
+            "dates": [
+                {
+                    "muhurt": "Amrut kaal from 1:30 AM to 8:30 PM",
+                    "start_time_gmt": 1710859236,
+                    "end_time_gmt": 1710954516
+                }
+            ]
         },
         {
-            "month": "April",
-            "start_date_gmt": 1706150796,
-            "end_date_gmt": 1706244996
+            "month": 4,
+            "note": "Aspicious date for swarnprashan",
+            "dates": [
+                {
+                    "muhurt": "Amrut kaal from 1:30 AM to 8:30 PM",
+                    "start_time_gmt": 1713216936,
+                    "end_time_gmt": 1713311196
+                }
+            ]
+        },
+        {
+            "month": 5,
+            "note": "Aspicious date for swarnprashan",
+            "dates": [
+                {
+                    "muhurt": "Amrut kaal from 1:30 AM to 8:30 PM",
+                    "start_time_gmt": 1715579616,
+                    "end_time_gmt": 1715672136
+                }
+            ]
+        },
+        {
+            "month": 6,
+            "note": "Aspicious date for swarnprashan",
+            "dates": [
+                {
+                    "muhurt": "Amrut kaal from 1:30 AM to 8:30 PM",
+                    "start_time_gmt": 1717944636,
+                    "end_time_gmt": 1718035836
+                }
+            ]
+        },
+        {
+            "month": 7,
+            "note": "Aspicious date for swarnprashan",
+            "dates": [
+                {
+                    "muhurt": "Amrut kaal from 1:30 AM to 8:30 PM",
+                    "start_time_gmt": 1720307916,
+                    "end_time_gmt": 1720398816
+                }
+            ]
+        },
+        {
+            "month": 8,
+            "note": "Aspicious date for swarnprashan",
+            "dates": [
+                {
+                    "muhurt": "Amrut kaal from 1:30 AM to 8:30 PM",
+                    "start_time_gmt": 1722666576,
+                    "end_time_gmt": 1722758196
+                },
+                {
+                    "muhurt": "Amrut kaal from 1:30 AM to 8:30 PM",
+                    "start_time_gmt": 1725113376,
+                    "end_time_gmt": 1725203376
+                }
+            ]
+        },
+        {
+            "month": 9,
+            "note": "Aspicious date for swarnprashan",
+            "dates": [
+                {
+                    "muhurt": "Amrut kaal from 1:30 AM to 8:30 PM",
+                    "start_time_gmt": 1727373876,
+                    "end_time_gmt": 1727466636
+                }
+            ]
+        },
+        {
+            "month": 10,
+            "note": "Aspicious date for swarnprashan",
+            "dates": [
+                {
+                    "muhurt": "Amrut kaal from 1:30 AM to 8:30 PM",
+                    "start_time_gmt": 1729730736,
+                    "end_time_gmt": 1729822236
+                }
+            ]
+        },
+        {
+            "month": 11,
+            "note": "Aspicious date for swarnprashan",
+            "dates": [
+                {
+                    "muhurt": "Amrut kaal from 1:30 AM to 8:30 PM",
+                    "start_time_gmt": 1732094436,
+                    "end_time_gmt": 1732183536
+                }
+            ]
+        },
+        {
+            "month": 12,
+            "note": "Aspicious date for swarnprashan",
+            "dates": [
+                {
+                    "muhurt": "Amrut kaal from 1:30 AM to 8:30 PM",
+                    "start_time_gmt": 1734462876,
+                    "end_time_gmt": 1734593316
+                }
+            ]
         }
     ]
 }
